@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Lab1FilterGabora
-build_property.ProjectDir = D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\
+build_property.ProjectDir = D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\MultiThreadingGaborFilterLab\Lab1FilterGabora\

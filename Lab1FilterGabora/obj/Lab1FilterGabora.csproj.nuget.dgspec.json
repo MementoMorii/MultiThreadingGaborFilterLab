@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\Lab1FilterGabora\\Lab1FilterGabora.csproj": {}
+    "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\MultiThreadingGaborFilterLab\\Lab1FilterGabora\\Lab1FilterGabora.csproj": {}
   },
   "projects": {
-    "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\Lab1FilterGabora\\Lab1FilterGabora.csproj": {
+    "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\MultiThreadingGaborFilterLab\\Lab1FilterGabora\\Lab1FilterGabora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\Lab1FilterGabora\\Lab1FilterGabora.csproj",
+        "projectUniqueName": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\MultiThreadingGaborFilterLab\\Lab1FilterGabora\\Lab1FilterGabora.csproj",
         "projectName": "Lab1FilterGabora",
-        "projectPath": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\Lab1FilterGabora\\Lab1FilterGabora.csproj",
+        "projectPath": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\MultiThreadingGaborFilterLab\\Lab1FilterGabora\\Lab1FilterGabora.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\Lab1FilterGabora\\obj\\",
+        "outputPath": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\MultiThreadingGaborFilterLab\\Lab1FilterGabora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

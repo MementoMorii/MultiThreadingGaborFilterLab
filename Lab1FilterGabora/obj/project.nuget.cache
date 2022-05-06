@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "if5X86HCZkuSJJ6dAnSPkE4J8WuuELIcwzmVrKQL7LIPZp9gJ2jDCgnRBubjtpWu+a7AmXWA4P02k2VQDnu9cw==",
+  "dgSpecHash": "UY49JGEi9RHO6XtKQ5zx0rKOEzWxsESMN6xKru2Ic0QJWPTHE9C9r7j1NQPFB6YQmog7FpsSE5DZFlCHIHTbMA==",
   "success": true,
-  "projectFilePath": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\Lab1FilterGabora\\Lab1FilterGabora.csproj",
+  "projectFilePath": "D:\\My\\Мага\\Семак 2\\Параллельные вычисления\\Лаб1\\Lab1FilterGabora\\MultiThreadingGaborFilterLab\\Lab1FilterGabora\\Lab1FilterGabora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
