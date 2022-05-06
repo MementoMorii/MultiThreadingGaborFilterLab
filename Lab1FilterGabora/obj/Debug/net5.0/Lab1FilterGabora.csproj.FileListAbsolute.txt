@@ -1,0 +1,16 @@
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\Lab1FilterGabora.exe
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\Lab1FilterGabora.deps.json
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\Lab1FilterGabora.runtimeconfig.json
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\Lab1FilterGabora.runtimeconfig.dev.json
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\Lab1FilterGabora.dll
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\ref\Lab1FilterGabora.dll
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\bin\Debug\net5.0\Lab1FilterGabora.pdb
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.csproj.AssemblyReference.cache
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.AssemblyInfoInputs.cache
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.AssemblyInfo.cs
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.csproj.CoreCompileInputs.cache
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.dll
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\ref\Lab1FilterGabora.dll
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.pdb
+D:\My\Мага\Семак 2\Параллельные вычисления\Лаб1\Lab1FilterGabora\Lab1FilterGabora\obj\Debug\net5.0\Lab1FilterGabora.genruntimeconfig.cache
