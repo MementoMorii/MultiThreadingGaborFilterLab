@@ -25,10 +25,11 @@
             return filteredMatrix;
         }
 
-        public async Task<double[,]> FilterMatrixAsync(double[,] matrix, double[,] filter, int D, int S, int Rf)
+        public async Task<double[,]> FilterMatrixAsync(double[,] matrix, double[,] filter)
         {
-            var n = (int)Math.Pow(2, D);
-            var m = (int)Math.Pow(2, S);
+            var n = matrix.GetLength(0);
+            var m = matrix.GetLength(1);
+            var Rf = filter.GetLength(0);
             var filteredMatrix = new double[n - Rf + 1, m - Rf + 1];
             for (int i = 0; i < n; i++)
             {
@@ -41,10 +42,11 @@
             return filteredMatrix;
         }
 
-        public double[,] FilterMatrixMultitreading(double[,] matrix, double[,] filter, int D, int S, int Rf)
+        public double[,] FilterMatrixMultitreading(double[,] matrix, double[,] filter, int D)
         {
-            var n = (int)Math.Pow(2, D);
-            var m = (int)Math.Pow(2, S);
+            var n = matrix.GetLength(0);
+            var m = matrix.GetLength(1);
+            var Rf = filter.GetLength(0);
             var filteredMatrix = new double[n - Rf + 1, m - Rf + 1];
             var countThreads = D;
             var countIterationsForThread = (int)n / D;
