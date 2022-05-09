@@ -11,10 +11,12 @@
     {
         public double[,] FilterMatrix(double[,] matrix, double[,] filter)
         {
-            var n = matrix.GetLength(0);
-            var m = matrix.GetLength(1);
+            var N = matrix.GetLength(0);
+            var M = matrix.GetLength(1);
             var Rf = filter.GetLength(0);
-            var filteredMatrix = new double[n - Rf + 1, m - Rf + 1];
+            var n = N - Rf + 1;
+            var m = M - Rf + 1;
+            var filteredMatrix = new double[n, m];
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < m; j++)
@@ -129,14 +131,12 @@
 
         private double CountSummFilter(double[,] maatrix, double[,] filter, int x, int y)
         {
-            var n = maatrix.GetLength(0);
-            var m = maatrix.GetLength(1);
             var Rf = filter.GetLength(0);
             var sumI = 0.0;
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < Rf; i++)
             {
                 var sumJ = 0.0;
-                for (int j = 0; j < m; j++)
+                for (int j = 0; j < Rf; j++)
                 {
                     var dimension1 = x - Rf / 2 + i;
                     var dimension2 = y - Rf / 2 + j;

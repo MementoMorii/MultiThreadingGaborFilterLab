@@ -23,5 +23,20 @@
 
             return matrix;
         }
+
+        public void ShowMatrix(double[,] matrix)
+        {
+            var n = matrix.GetLength(0);
+            var m = matrix.GetLength(1);
+
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    Console.Write($"{matrix[i, j]} ");
+                }
+                Console.Write("\n");
+            }
+        }
     }
 }
